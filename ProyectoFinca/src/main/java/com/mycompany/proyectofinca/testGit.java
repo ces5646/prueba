@@ -10,5 +10,8 @@ package com.mycompany.proyectofinca;
  * @author CESAR
  */
 public class testGit {
+    public void imprir(){
+        System.out.println("prueba");
+    }
     
 }
